@@ -1,5 +1,5 @@
 {
-  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/report/3.4.0/schema.json",
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/report/3.0.0/schema.json",
   "themeCollection": {
     "baseTheme": {
       "name": "Fluent2-CY26SU11",
@@ -46,6 +46,5 @@
     "allowChangeFilterTypes": true,
     "useEnhancedTooltips": true,
     "useDefaultAggregateDisplayName": true
-  },
-  "linguisticSchemaSyncVersion": 2
+  }
 }
