@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="655" viewBox="0 0 680 655" role="img" aria-labelledby="title description">
+  <title id="title">Axians color palette</title>
+  <desc id="description">Main and secondary colors with four progressively lighter shades of each color.</desc>
+  <rect width="680" height="655" fill="#ffffff"/>
+  <g font-family="Arial, sans-serif" fill="#222222">
+    <text x="15" y="25" font-size="18" font-weight="bold">Main colors</text>
+    <text x="180" y="25" font-size="12">Full color</text>
+    <text x="290" y="25" font-size="12">Lighter shades</text>
+    <g font-size="14">
+      <text x="15" y="61">Blue #005EB8</text>
+      <text x="15" y="103">Magenta #A20067</text>
+      <text x="15" y="145">Grey #87888A</text>
+    </g>
+    <text x="15" y="200" font-size="18" font-weight="bold">Secondary colors</text>
+    <g font-size="14">
+      <text x="15" y="236">Light blue #00B1EB</text>
+      <text x="15" y="278">Purple #662483</text>
+      <text x="15" y="320">Green #95C11F</text>
+      <text x="15" y="362">Orange #EC6726</text>
+      <text x="15" y="404">Red #E50051</text>
+      <text x="15" y="446">Yellow #FFCC00</text>
+      <text x="15" y="488">Pink #E6007E</text>
+      <text x="15" y="530">Light grey #B1B3B4</text>
+      <text x="15" y="572">Brown #97663D</text>
+    </g>
+  </g>
+  <g stroke="#dddddd" stroke-width="1">
+    <rect x="180" y="40" width="90" height="28" fill="#005EB8"/><rect x="275" y="40" width="90" height="28" fill="#337EC6"/><rect x="370" y="40" width="90" height="28" fill="#669ED4"/><rect x="465" y="40" width="90" height="28" fill="#99BFE3"/><rect x="560" y="40" width="90" height="28" fill="#CCDFF1"/>
+    <rect x="180" y="82" width="90" height="28" fill="#A20067"/><rect x="275" y="82" width="90" height="28" fill="#B53385"/><rect x="370" y="82" width="90" height="28" fill="#C766A4"/><rect x="465" y="82" width="90" height="28" fill="#DA99C2"/><rect x="560" y="82" width="90" height="28" fill="#ECCCE1"/>
+    <rect x="180" y="124" width="90" height="28" fill="#87888A"/><rect x="275" y="124" width="90" height="28" fill="#9FA0A1"/><rect x="370" y="124" width="90" height="28" fill="#B7B8B9"/><rect x="465" y="124" width="90" height="28" fill="#CFCFD0"/><rect x="560" y="124" width="90" height="28" fill="#E7E7E8"/>
+    <rect x="180" y="215" width="90" height="28" fill="#00B1EB"/><rect x="275" y="215" width="90" height="28" fill="#33C1EF"/><rect x="370" y="215" width="90" height="28" fill="#66D0F3"/><rect x="465" y="215" width="90" height="28" fill="#99E0F7"/><rect x="560" y="215" width="90" height="28" fill="#CCEFFB"/>
+    <rect x="180" y="257" width="90" height="28" fill="#662483"/><rect x="275" y="257" width="90" height="28" fill="#85509C"/><rect x="370" y="257" width="90" height="28" fill="#A37CB5"/><rect x="465" y="257" width="90" height="28" fill="#C2A7CD"/><rect x="560" y="257" width="90" height="28" fill="#E0D3E6"/>
+    <rect x="180" y="299" width="90" height="28" fill="#95C11F"/><rect x="275" y="299" width="90" height="28" fill="#AACD4C"/><rect x="370" y="299" width="90" height="28" fill="#BFDA79"/><rect x="465" y="299" width="90" height="28" fill="#D5E6A5"/><rect x="560" y="299" width="90" height="28" fill="#EAF3D2"/>
+    <rect x="180" y="341" width="90" height="28" fill="#EC6726"/><rect x="275" y="341" width="90" height="28" fill="#F08551"/><rect x="370" y="341" width="90" height="28" fill="#F4A47D"/><rect x="465" y="341" width="90" height="28" fill="#F7C2A8"/><rect x="560" y="341" width="90" height="28" fill="#FBE1D4"/>
+    <rect x="180" y="383" width="90" height="28" fill="#E50051"/><rect x="275" y="383" width="90" height="28" fill="#EA3374"/><rect x="370" y="383" width="90" height="28" fill="#EF6697"/><rect x="465" y="383" width="90" height="28" fill="#F599B9"/><rect x="560" y="383" width="90" height="28" fill="#FACCDC"/>
+    <rect x="180" y="425" width="90" height="28" fill="#FFCC00"/><rect x="275" y="425" width="90" height="28" fill="#FFD633"/><rect x="370" y="425" width="90" height="28" fill="#FFE066"/><rect x="465" y="425" width="90" height="28" fill="#FFEB99"/><rect x="560" y="425" width="90" height="28" fill="#FFF5CC"/>
+    <rect x="180" y="467" width="90" height="28" fill="#E6007E"/><rect x="275" y="467" width="90" height="28" fill="#EB3398"/><rect x="370" y="467" width="90" height="28" fill="#F066B2"/><rect x="465" y="467" width="90" height="28" fill="#F599CB"/><rect x="560" y="467" width="90" height="28" fill="#FACCE5"/>
+    <rect x="180" y="509" width="90" height="28" fill="#B1B3B4"/><rect x="275" y="509" width="90" height="28" fill="#C1C2C3"/><rect x="370" y="509" width="90" height="28" fill="#D0D1D2"/><rect x="465" y="509" width="90" height="28" fill="#E0E1E1"/><rect x="560" y="509" width="90" height="28" fill="#EFF0F0"/>
+    <rect x="180" y="551" width="90" height="28" fill="#97663D"/><rect x="275" y="551" width="90" height="28" fill="#AC8564"/><rect x="370" y="551" width="90" height="28" fill="#C1A38B"/><rect x="465" y="551" width="90" height="28" fill="#D5C2B1"/><rect x="560" y="551" width="90" height="28" fill="#EAE0D8"/>
+  </g>
+</svg>
